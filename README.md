@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolas34070
-- 👀 I’m interested in back office developpement
-- 🌱 I’m currently learning front technologies and cryptocurrencies
+- 👀 I’m interested in back office developpement and cryptocurrencies
+- 🌱 I’m currently learning front technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
